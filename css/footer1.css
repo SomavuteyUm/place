@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.footer1 {
+    
+    padding: 40px;
+    width: 100%;
+    background-color: rgb(21, 162, 184);
+    list-style: none;
+}
+
+.leftContainer {
+    float: left;
+    width: 33%;
+    list-style-type: none;
+}
+
+.footer1 ul,li {
+    list-style-type: none;
+}
+
+.centerContainer {
+    float: left;
+    width: 33%;
+}
+.rightContainer{
+    float: left;
+    width: 33%;
+}
+.underContainer {
+    display: block;
+    width: 100%;
+}
+#more{
+    color: rgb(199, 249, 255);
+}
+.footer ul,li{
+    color: rgb(199, 249, 255);
+}
+#contact{
+    color: rgb(28, 82, 92);
+}
+pre{
+    color: rgb(28, 82, 92);
+}
